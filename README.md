@@ -1,13 +1,7 @@
 ### Hallo zusammen! 👋
 
 
-Mein Name ist Daria und ich bin ein aufstrebender Frontend-Entwickler. Vor Kurzem habe ich erfolgreich mein Studium an der IT TelRan School abgeschlossen und bin jetzt voller Tatendrang auf der Suche nach spannenden Praktikums- und Jobmöglichkeiten, um meine Kenntnisse und Fähigkeiten weiter zu vertiefen.
-
-Ich liebe es, kreative Lösungen zu entwickeln und mit anderen zusammenzuarbeiten, um herausfordernde Projekte zum Leben zu erwecken. Das Lernen neuer Technologien und die kontinuierliche Verbesserung meiner Fähigkeiten sind für mich eine echte Leidenschaft.
-
-Ich freue mich darauf, meine Begeisterung und meine Fähigkeiten in einem dynamischen Team einzubringen und gemeinsam an aufregenden Projekten zu arbeiten.
-
-Ich hoffe, das entspricht deinen Vorstellungen!
+Mein Name ist Daria und ich bin ein aufstrebender Frontend-Entwickler. Ich habe mein Studium an der IT TelRan School erfolgreich abgeschlossen und suche nun nach spannenden Praktikums- und Jobmöglichkeiten, um meine Fähigkeiten weiter auszubauen. Ich liebe es, kreative Lösungen zu entwickeln und freue mich darauf, in einem dynamischen Team an aufregenden Projekten zu arbeiten.
 
 
 :mailbox: Reach me out!
@@ -29,8 +23,6 @@ Ich hoffe, das entspricht deinen Vorstellungen!
 <img src="https://camo.githubusercontent.com/bceb421c2000df2a641f0ca1d423b7bb497f3a79c47197510f07d8c3ba407559/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e676f64622d6337653663373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462" alt="mongodb" data-canonical-src="https://img.shields.io/badge/mongodb-c7e6c7?style=for-the-badge&amp;logo=mongodb" style="max-width: 100%;">
 
 ---
-
-
 
 
 <img align='left' width=47% alt="Daria's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DariaLen&show_icons=true&theme=transparent"/>
