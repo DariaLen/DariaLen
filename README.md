@@ -1,11 +1,14 @@
-### Hallo, ich bin Daria 👋
+### Hallo zusammen! 👋
 
 
-Ich bin ein aufstrebender Frontend-Entwickler und habe kürzlich meine Ausbildung an der Aichi TelRan School erfolgreich abgeschlossen. Jetzt bin ich auf der Suche nach spannenden Praktikums- und Jobmöglichkeiten, um mein Wissen und meine Fähigkeiten weiter zu vertiefen.
+Mein Name ist Daria und ich bin ein aufstrebender Frontend-Entwickler. Vor Kurzem habe ich erfolgreich mein Studium an der IT TelRan School abgeschlossen und bin jetzt voller Tatendrang auf der Suche nach spannenden Praktikums- und Jobmöglichkeiten, um meine Kenntnisse und Fähigkeiten weiter zu vertiefen.
 
 Ich liebe es, kreative Lösungen zu entwickeln und mit anderen zusammenzuarbeiten, um herausfordernde Projekte zum Leben zu erwecken. Das Lernen neuer Technologien und die kontinuierliche Verbesserung meiner Fähigkeiten sind für mich eine echte Leidenschaft.
 
-Ich freue mich darauf, von Ihnen zu hören, und bin gespannt darauf, neue Möglichkeiten zu erkunden und gemeinsam großartige Projekte umzusetzen!
+Ich freue mich darauf, meine Begeisterung und meine Fähigkeiten in einem dynamischen Team einzubringen und gemeinsam an aufregenden Projekten zu arbeiten.
+
+Ich hoffe, das entspricht deinen Vorstellungen!
+
 
 :mailbox: Reach me out!
 
@@ -14,9 +17,7 @@ Ich freue mich darauf, von Ihnen zu hören, und bin gespannt darauf, neue Mögli
 <a href="mailto:daria.lenshmidt@gmail.com"><img src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Vladimir Abrahamyan" title="Gmail icon with padding" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 
 ---
-
-### Top Technologies 
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Top+Technologies+)](https://git.io/typing-svg)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&size=2x)
 <img src="https://camo.githubusercontent.com/472c222e8f240a48ae51cd9b082a1b857be809dcd851a25150890c2da50c13a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="2.2" title="CSS3" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/5833fe45777ae52f69c9c08f062d1d83622bd3374c136f019c283a53c5b209ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736173732d6565636464653f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373" alt="sass" data-canonical-src="https://img.shields.io/badge/sass-eecdde?style=for-the-badge&amp;logo=sass" style="max-width: 100%;">
@@ -32,8 +33,8 @@ Ich freue mich darauf, von Ihnen zu hören, und bin gespannt darauf, neue Mögli
 
 
 
-<img align='left' width=47% alt="Daria's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DariaLen&show_icons=true&theme=radical"/>
-<img align='right' width=47% alt="Top Langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DariaLen&layout=compact"/>
+<img align='left' width=47% alt="Daria's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DariaLen&show_icons=true&theme=transparent"/>
+<img align='right' width=42% alt="Top Langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DariaLen&layout=compact"/>
 
 
 
