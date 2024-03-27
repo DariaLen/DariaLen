@@ -24,7 +24,9 @@ Mein Name ist Daria und ich bin ein aufstrebender Frontend-Entwickler. Ich habe 
 
 ---
 
+<img align='left' width=47% alt="Daria's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DariaLen&show_icons=true&theme=transparent"/>
 
+<img align='right' width=42% alt="Top Langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DariaLen&layout=compact"/>
 
 
 
